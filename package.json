@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/suhailbw/test-repo-1/issues"
   },
-  "homepage": "https://github.com/suhailbw/test-repo-1#readme"
+  "homepage": "https://github.com/suhailbw/test-repo-1#readme",
+  "devDependencies": {
+    "i18next-parser": "^8.13.0"
+  },
+  "dependencies": {
+    "@transifex/cli": "^7.1.0",
+    "@transifex/native": "^7.1.0",
+    "i18next": "^23.10.1",
+    "i18next-node-fs-backend": "^2.1.3",
+    "transifex": "^1.6.6"
+  }
 }

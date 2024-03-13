@@ -1,0 +1,11 @@
+{
+  "this is from the greet function": {
+    "string": "esto es de la función de saludo"
+  },
+  "This is a new string": { "string": "adadasd" },
+  "Welcome back test@123": { "string": "" },
+  "Welcome back {username}": { "string": "dingo pingu bon retour, {username}" },
+  "another string": { "string": "" },
+  "This is a new string askljdlajsdl": { "string": "" },
+  "another string asldlasjd": { "string": "" }
+}

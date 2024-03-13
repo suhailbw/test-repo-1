@@ -1,0 +1,17 @@
+{
+  "this is from the greet function": {
+    "string": "this is from the greet function"
+  },
+  "This is a new string": { "string": "This is a new string" },
+  "Welcome back test@123": { "string": "Welcome back test@123" },
+  "Welcome back {username}": { "string": "Welcome back {username}" },
+  "another string": { "string": "another string" },
+  "This is a new string askljdlajsdl": {
+    "string": "This is a new string askljdlajsdl"
+  },
+  "another string asldlasjd": { "string": "another string asldlasjd" },
+  "Hello, Joe": { "string": "Hello, Joe" },
+  "abc": { "string": "abc" },
+  "Hello, Joe !": { "string": "Hello, Joe !" },
+  "Hello, {name} !": { "string": "Hello, {name} !" }
+}
